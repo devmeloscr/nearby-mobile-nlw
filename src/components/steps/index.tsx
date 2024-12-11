@@ -21,6 +21,7 @@ export function Steps() {
             description: "Ative cupons onde estiver, em diferentes tipos de estabelecimento "
         }
     ]
+
     return (
         <View style={styles.container}>
             <Text style={styles.title}>Veja como funciona:</Text>
